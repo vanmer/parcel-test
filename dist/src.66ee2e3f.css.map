@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/main.scss"],"names":[],"mappings":"AAEA,KACI,kBAHM,CAIN","file":"src.66ee2e3f.css","sourceRoot":"../src","sourcesContent":["$color-1: lightgray;\n\nbody {\n    background: $color-1;\n    height: 200vh;\n}"]}
